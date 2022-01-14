@@ -2,7 +2,7 @@
     "name": "Year in a Tab",
     "description": "A tracker for mood throughout the year",
     "version": "0.1",
-    "manifest_version": 4,
+    "manifest_version": 3,
     "background": {
         "service_worker": "background.js"
     },
