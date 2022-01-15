@@ -1,4 +1,13 @@
 .date{
+    font-size: xx-large;
     text-align: center;
+<<<<<<< Updated upstream
     color: lightslategray;
+=======
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px; 
+>>>>>>> Stashed changes
 }
